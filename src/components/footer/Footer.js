@@ -32,7 +32,7 @@ export default function () {
          <div className="Footer-bottom">
         <div>Web Accessiblity | Privacy Statement | Terms of Use Contact Us</div>
         <div>© 2024
-        Chandu's Coffee Company. All rights reserved.</div> 
+        Irish Coffee Company. All rights reserved.</div> 
       </div>
     </>
   );
